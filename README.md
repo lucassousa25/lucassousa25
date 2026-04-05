@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucassousa25)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassoliv)
 [![GitHub followers](https://img.shields.io/github/followers/lucassousa25?style=for-the-badge&color=0f3460&labelColor=1a1a2e)](https://github.com/lucassousa25)
 [![Profile Views](https://komarev.com/ghpvc/?username=lucassousa25&style=for-the-badge&color=e94560&label=VISITAS)](https://github.com/lucassousa25)
 
@@ -51,15 +51,11 @@ public class LucasOliveira implements SoftwareArchitect {
 ### Back-end
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=Apache-Maven&logoColor=white)
 
 ### Front-end
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -99,29 +95,17 @@ public class LucasOliveira implements SoftwareArchitect {
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│   🏢  ERP & Sistemas Empresariais                       │
+│   🏢  ERP & Sistemas Empresariais                      │
 │        Módulos fiscais, financeiros e operacionais      │
 │                                                         │
-│   🔄  Automação Comercial                               │
-│        PDV, NF-e, NFC-e, integrações SEFAZ             │
-│                                                         │
-│   🏛️  Arquitetura de Software                           │
-│        Microsserviços, DDD, Clean Architecture          │
+│   🔄  Automação Comercial                              │
+│        PDV, NF-e, NFC-e, integrações SEFAZ              │
 │                                                         │
 │   🔌  Integração de Sistemas                            │
-│        APIs REST, mensageria, WebServices               │
+│        APIs REST, WebServices                           │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
-
----
-
-## 🌱 Atualmente estudando
-
-- ☕ **Java Avançado** — JVM internals, performance tuning
-- 🌿 **Spring Ecosystem** — Spring Cloud, Spring Batch
-- 🐳 **DevOps** — Docker, CI/CD pipelines
-- 📐 **Arquitetura** — Event-driven, CQRS, Hexagonal Architecture
 
 ---
 
@@ -144,7 +128,7 @@ public class LucasOliveira implements SoftwareArchitect {
 
 **📧 Aberto para colaborações, projetos freelance e oportunidades profissionais.**
 
-[![LinkedIn](https://img.shields.io/badge/Me_encontre_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucassousa25)
+[![LinkedIn](https://img.shields.io/badge/Me_encontre_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassoliv)
 
 </div>
 
@@ -153,7 +137,6 @@ public class LucasOliveira implements SoftwareArchitect {
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer"/>
 </div>
-**lucassousa25/lucassousa25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
