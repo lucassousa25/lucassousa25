@@ -76,14 +76,6 @@ public class LucasOliveira implements SoftwareArchitect {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassousa25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=e94560&title_color=e94560&icon_color=a8dadc&hide_border=false"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassousa25&layout=compact&langs_count=7&theme=tokyonight&border_color=e94560&title_color=e94560&hide_border=false"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=lucassousa25&theme=tokyonight&border=e94560&ring=e94560&fire=a8dadc&currStreakLabel=a8dadc&sideLabels=ffffff)](https://git.io/streak-stats)
 
 </div>
@@ -112,10 +104,13 @@ public class LucasOliveira implements SoftwareArchitect {
 ## 📌 Projetos em Destaque
 
 <div align="center">
-
-[![sistema_side](https://github-readme-stats.vercel.app/api/pin/?username=lucassousa25&repo=sistema_side&theme=tokyonight&border_color=e94560&title_color=e94560)](https://github.com/lucassousa25/sistema_side)
-[![github-profiles](https://github-readme-stats.vercel.app/api/pin/?username=lucassousa25&repo=github-profiles&theme=tokyonight&border_color=e94560&title_color=e94560)](https://github.com/lucassousa25/github-profiles)
-
+ 
+| Projeto | Descrição | Tecnologia |
+|--------|-----------|------------|
+| [🗂️ sistema_side](https://github.com/lucassousa25/sistema_side) | Sistema de Indicadores de Desempenho de Estoque | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
+| [👤 github-profiles](https://github.com/lucassousa25/github-profiles) | Buscador de perfis do GitHub | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) |
+| [🌤️ weatherapi](https://github.com/lucassousa25/weatherapi) | Integração com API de clima | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
+ 
 </div>
 
 ---
@@ -126,7 +121,7 @@ public class LucasOliveira implements SoftwareArchitect {
 
 > *"A arquitetura de software é a arte de tomar decisões que importam — e documentar bem as que doem."*
 
-**📧 Aberto para colaborações, projetos freelance e oportunidades profissionais.**
+**📧 Aberto para colaborações e troca de conhecimento.**
 
 [![LinkedIn](https://img.shields.io/badge/Me_encontre_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassoliv)
 
@@ -137,15 +132,3 @@ public class LucasOliveira implements SoftwareArchitect {
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer"/>
 </div>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
